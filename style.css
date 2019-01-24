@@ -1,0 +1,48 @@
+body {
+    background-image: linear-gradient(to right top, #051937, #1c3b61, #32608f, #4689be, #5ab4ee);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height : 50em;
+    width: auto;
+    font-family: 'Comfortaa', cursive;
+
+}
+
+#city {
+    background-color: #417EB2;
+    border : none;
+    color : white;
+}
+
+#sub {
+    background-color: white;
+    color : #417EB2;
+    border-radius: 44%;
+    display: block;
+    margin-top: 10%;
+    margin-left: 38%;
+}
+
+#search_city {
+    text-align: center;
+    color : white;
+}
+
+#other_infos{
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    color : white;
+    margin-top: -12%;
+
+}
+
+#tempactu {
+    font-size: 8em;
+    color: white;
+}
+
+#latitude, #longitude {
+    color : white;
+}
+
